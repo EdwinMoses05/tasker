@@ -1,4 +1,4 @@
-**EDWIN MOSES S**  
+**EDWIN MOSES.S**  
 **Company**: CODETECH IT SOLUTIONS  
 **Id**: CT08DS174
 **Domain**: Frontend Web Development  
@@ -73,6 +73,13 @@ This project is a simple yet functional To-Do List application built with **Reac
 
 ## 📸 Screenshots
 
+**img 1**
+
+![Screenshot 2024-12-29 165005](https://github.com/user-attachments/assets/102810d5-4def-435d-b22e-a5184130a98f)
+
+**img 2**
+  
+ ![Screenshot 2024-12-29 165026](https://github.com/user-attachments/assets/254ac153-6864-4aa1-bfbf-800434f3873e)
 
 ---
 
